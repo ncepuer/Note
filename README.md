@@ -10,7 +10,7 @@
 151.101.108.133 avatars3.githubusercontent.com  
 151.101.76.133 raw.githubusercontent.com  
 
-***
+
 
 ## Ubuntu搭建运行PHP文件的环境
 ### 总体步骤：
